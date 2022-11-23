@@ -1,0 +1,2 @@
+pyserial==3.4
+xArm-Python-SDK==1.11.5
